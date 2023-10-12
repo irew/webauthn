@@ -450,7 +450,7 @@ Note: This approach of registering multiple [=authenticators=] for an account is
     * User navigates to `example.com` in a browser and signs in to an existing account using whatever method they have been using
         (possibly a legacy method such as a password), or creates a new account.
     * User navigates to account security settings and selects "Register security key".
-    * Website prompts the user to plug in a USB security key fob; the user does.
+    * Website prompts the user to plug in a USB security key; the user does.
     * The USB security key blinks to indicate the user should press the button on it; the user does.
     * Website shows message, "Registration complete."
 
